@@ -30,8 +30,8 @@
 
 // M5StickC Library:
 // Install for PlatformIO:
-// pio lib install "M5StickC"
-#include <M5StickC.h>
+// pio lib install "M5StickCPlus"
+#include <M5StickCPlus.h>
 
 #include "tb_display.h"
 
